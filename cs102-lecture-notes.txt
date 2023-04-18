@@ -1,0 +1,6 @@
+git add - moves changes from working directory to staging area
+git clone - creates a copy of an existing repository
+git commit - takes a snapshot and commits it to project history
+git init - creates a new repository
+git pull - downloads a branch from a remote repository and merges it to the current branch
+
